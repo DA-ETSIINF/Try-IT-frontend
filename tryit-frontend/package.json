@@ -13,7 +13,7 @@
 		"nuxt": "2.11.0",
 		"nuxt-fullpage.js": "0.0.3",
 		"nuxt-property-decorator": "2.5.0",
-		"swiper": "^5.3.1",
+		"swiper": "^6.5.1",
 		"vuex-class": "0.3.2",
 		"vuex-module-decorators": "^0.16.1"
 	},
